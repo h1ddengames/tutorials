@@ -120,6 +120,8 @@ Cool/useful tutorials for self-improvement.
 * [Sea Shack | beginners tutorial | blender 2 8 - YouTube](https://www.youtube.com/watch?v=Jmir2bDpZA4)
 * [UV Unwrapping - Blender 2.80 Fundamentals - YouTube](https://www.youtube.com/watch?v=Y7M-B6xnaEM)
 * [UV's and Texture Painting - Get Started Building Stuff with Blender 2.8 Week 2 - YouTube](https://www.youtube.com/watch?v=ZmzCCxXyXxg)
+* [~~Blender 2.8 Beginner Tutorial - Part 1: Up and Running (100% FREE) - YouTube~~ [Completed 9/22/19]](https://www.youtube.com/watch?v=KyjSnak3Yjo)
+* [~~Blender 2.8 Beginner Tutorial - Part 2: Sword (100% FREE) - YouTube~~ [Completed 9/30/19]](https://www.youtube.com/watch?v=zHv4VDoCwYc)
 
 > ## <b> Programming </b>
 
